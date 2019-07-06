@@ -1,0 +1,12 @@
+C:\Users\Neslihan\documents\visual studio 2013\Projects\11005Win_HesapMakinesiOdev\11005Win_HesapMakinesiOdev\bin\11005Win_HesapMakinesiOdev.dll.config
+C:\Users\Neslihan\documents\visual studio 2013\Projects\11005Win_HesapMakinesiOdev\11005Win_HesapMakinesiOdev\bin\11005Win_HesapMakinesiOdev.dll
+C:\Users\Neslihan\documents\visual studio 2013\Projects\11005Win_HesapMakinesiOdev\11005Win_HesapMakinesiOdev\bin\11005Win_HesapMakinesiOdev.pdb
+C:\Users\Neslihan\documents\visual studio 2013\Projects\11005Win_HesapMakinesiOdev\11005Win_HesapMakinesiOdev\obj\Debug\11005Win_HesapMakinesiOdev.dll
+C:\Users\Neslihan\documents\visual studio 2013\Projects\11005Win_HesapMakinesiOdev\11005Win_HesapMakinesiOdev\obj\Debug\11005Win_HesapMakinesiOdev.pdb
+C:\Users\Neslihan Ak\Desktop\Projects\.Net Eğitim\11005Win_HesapMakinesiOdev\11005Win_HesapMakinesiOdev\bin\11005Win_HesapMakinesiOdev.dll.config
+C:\Users\Neslihan Ak\Desktop\Projects\.Net Eğitim\11005Win_HesapMakinesiOdev\11005Win_HesapMakinesiOdev\bin\11005Win_HesapMakinesiOdev.dll
+C:\Users\Neslihan Ak\Desktop\Projects\.Net Eğitim\11005Win_HesapMakinesiOdev\11005Win_HesapMakinesiOdev\bin\11005Win_HesapMakinesiOdev.pdb
+C:\Users\Neslihan Ak\Desktop\Projects\.Net Eğitim\11005Win_HesapMakinesiOdev\11005Win_HesapMakinesiOdev\obj\Debug\11005Win_HesapMakinesiOdev.csprojAssemblyReference.cache
+C:\Users\Neslihan Ak\Desktop\Projects\.Net Eğitim\11005Win_HesapMakinesiOdev\11005Win_HesapMakinesiOdev\obj\Debug\11005Win_HesapMakinesiOdev.csproj.CoreCompileInputs.cache
+C:\Users\Neslihan Ak\Desktop\Projects\.Net Eğitim\11005Win_HesapMakinesiOdev\11005Win_HesapMakinesiOdev\obj\Debug\11005Win_HesapMakinesiOdev.dll
+C:\Users\Neslihan Ak\Desktop\Projects\.Net Eğitim\11005Win_HesapMakinesiOdev\11005Win_HesapMakinesiOdev\obj\Debug\11005Win_HesapMakinesiOdev.pdb
